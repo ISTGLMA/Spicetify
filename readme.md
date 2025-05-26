@@ -1,1 +1,8 @@
+# What is Spicetify?
+It's a Spotify modification which enhances your overall experience with Spotify, letting you install custom themes, extensions and even apps within Spotify. So if you want uninterrupted listening, that's viable.
 
+# Installation
+It's relatively easy and simple, just download the latest release (from this repository) and unzip it, then run Spicetify and it'll handle everything for you.
+
+# Why was this installer made?
+The installer was made purely for convenience sake. Some people don't like terminals or fear the use of terminals which is completely valid, others just want the convenience of not having to use terminals or run scripts, this installer solves all of that. It handles everything, you just run it.
